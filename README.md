@@ -1,4 +1,4 @@
-# Getting Started with Create React App
+Building a notepad application to record user notes and integrate a firebase authentication system to allow users to view those notes and add or delate more. 
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
